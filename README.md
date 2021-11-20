@@ -6,7 +6,7 @@ Vou criar um repo com os principais Padrões de projetos utilizados na lang JAVA
 
 É um conjunto de soluçõe de problemas encontrado no dia a dia para facilitar a comunicação foram catalogados 
 em um livro muito famoso chamado: <br>
-    Padrões de Projetos Soluções Reutilizáveis de Software Orientados a Objetos o famoso GOF dream team kkk. 
+  📚 Padrões de Projetos Soluções Reutilizáveis de Software Orientados a Objetos o famoso GOF dream team kkk. 
 
 Mas basicamente veremos nesse repo 3 tipos de padrões: 
 ![image](https://user-images.githubusercontent.com/31409846/142742676-a6201fbe-673c-4a4c-883e-8449979b84c7.png)
