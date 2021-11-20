@@ -5,7 +5,7 @@ Vou criar um repo com os principais Padrões de projetos utilizados na lang JAVA
 # 📖 O que é um desing pattern? 
 
 É um conjunto de soluçõe de problemas encontrado no dia a dia para facilitar a comunicação foram catalogados 
-em um livro muito famoso chamado: 
+em um livro muito famoso chamado: <br>
     Padrões de Projetos Soluções Reutilizáveis de Software Orientados a Objetos o famoso GOF dream team kkk. 
 
 Mas basicamente veremos nesse repo 3 tipos de padrões: 
