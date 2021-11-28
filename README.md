@@ -1,5 +1,5 @@
 # ☕ Design-Patterns-JAVA
-Vou criar um repo com os principais Padrões de projetos utilizados na lang JAVA, para ajudar a galera em no futuro .
+Vou criar um repo com os principais Padrões de projetos utilizados na lang JAVA, para ajudar a galera .
 
 
 # 📖 O que é um desing pattern? 
@@ -13,9 +13,7 @@ Mas basicamente veremos nesse repo 3 tipos de padrões:
 
 Bom em cada projeto vai ter qual padrão ele é e uma explicação mais detalhada mas vamos trabalhar com:
   
-    
- 
-    
+   
   
 <ol>
    <li>👉 Factory Method</li>
